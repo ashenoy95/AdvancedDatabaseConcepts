@@ -1,4 +1,6 @@
 
+--https://en.wikipedia.org/wiki/HITS_algorithm#Pseudocode
+
 create table graph(source int, target int);
 
 create table hub(hid int primary key, score float);
