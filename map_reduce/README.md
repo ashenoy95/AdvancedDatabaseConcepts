@@ -4,6 +4,6 @@
 
 * __projection.sql__:  Implements Pi<sub>A</sub>(R) where R(A, B) is a relation.
 
-* __set_diff__: Iimplements the set diﬀerence of two relations R(A) and S(A).
+* __set_diff.sql__: Iimplements the set diﬀerence of two relations R(A) and S(A).
 
 Assuming that the domain of A, B, and C is INTEGER.
