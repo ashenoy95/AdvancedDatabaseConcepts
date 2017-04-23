@@ -1,3 +1,5 @@
+## Simulations of MapReduce in Postgres ##
+
 * __join.sql__: 
 
 * __projection.sql__: 
